@@ -1,0 +1,11 @@
+1.  ubah main.dart
+2.  buat class LoginPage di main.dart
+3.  arahkan materialpage route misal '/powerPage' dll
+4.  buat file powerPage.dart
+5.  buat file vendedoresPage.dart
+6.  buat listartUsuarios.dart
+7.  ubah main.dart dengan manambahkan material pageroute ke '/detail'
+8.  buat file detail.dart
+9.  buat file editDate.dart
+10. buat file registroUsuarios.dart
+11. finish
